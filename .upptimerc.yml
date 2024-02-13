@@ -5,7 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: Bidegain's Resume
     url: https://bidegain.com.ar
-  - name: Google's Website
+  - name: Google Website
     url: https://google.com
   - name: Hacker News
     url: https://news.ycombinator.com
