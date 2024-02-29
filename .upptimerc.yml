@@ -5,6 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: Bidegain's Resume
     url: https://www.bidegain.com.ar
+ - name: Bidegain's Resume 2
+    url: https://resume-git-master-juancruzbidegain.vercel.app/
+ - name: Bidegain's Resume 3
+    url: bidegain.com.ar
   - name: Google
     url: https://www.google.com
   - name: Hacker News
