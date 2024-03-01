@@ -7,8 +7,9 @@ sites:
     url: https://www.bidegain.com.ar
   - name: Bidegain's Resume 2
     url: https://resume-git-master-juancruzbidegain.vercel.app/
-  - name: Bidegain's Resume 3
-    url: http://172.233.27.143:3000/
+  - name: Bidegain's Resume ip
+    url: http://172.233.27.143
+    port: 3000
   - name: Google
     url: https://www.google.com
   - name: Hacker News
