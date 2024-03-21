@@ -4,19 +4,19 @@
     "url": "https://www.bidegain.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.bidegain.com.ar.ico",
     "slug": "bidegain-s-resume",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 319,
-    "timeDay": 224,
-    "timeWeek": 198,
-    "timeMonth": 339,
-    "timeYear": 319,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 316,
+    "timeDay": 180,
+    "timeWeek": 191,
+    "timeMonth": 333,
+    "timeYear": 316,
     "dailyMinutesDown": {
-      "2024-03-21": 0
+      "2024-03-21": 6
     }
   },
   {
