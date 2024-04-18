@@ -4,7 +4,7 @@
     "url": "https://www.bidegain.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.bidegain.com.ar.ico",
     "slug": "bidegain-s-resume",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 194,
     "timeMonth": 200,
     "timeYear": 276,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-18": 0
+    }
   },
   {
     "name": "Google",
