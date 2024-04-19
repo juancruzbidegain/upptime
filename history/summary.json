@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bidegain.com.ar.ico",
     "slug": "bidegain-s-resume",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.75%",
+    "uptimeDay": "84.93%",
+    "uptimeWeek": "97.85%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.75%",
     "time": 276,
-    "timeDay": 231,
-    "timeWeek": 194,
+    "timeDay": 0,
+    "timeWeek": 202,
     "timeMonth": 200,
     "timeYear": 276,
     "dailyMinutesDown": {
-      "2024-04-18": 0
+      "2024-04-19": 46,
+      "2024-04-18": 171
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 97,
-    "timeDay": 122,
-    "timeWeek": 125,
-    "timeMonth": 98,
-    "timeYear": 97,
+    "time": 98,
+    "timeDay": 186,
+    "timeWeek": 141,
+    "timeMonth": 101,
+    "timeYear": 98,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 287,
-    "timeDay": 338,
-    "timeWeek": 351,
-    "timeMonth": 332,
+    "timeDay": 283,
+    "timeWeek": 376,
+    "timeMonth": 330,
     "timeYear": 287,
     "dailyMinutesDown": {}
   }
