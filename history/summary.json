@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bidegain.com.ar.ico",
     "slug": "bidegain-s-resume",
     "status": "down",
-    "uptime": "93.66%",
+    "uptime": "93.12%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "40.70%",
-    "uptimeMonth": "86.35%",
-    "uptimeYear": "93.66%",
+    "uptimeWeek": "35.30%",
+    "uptimeMonth": "85.11%",
+    "uptimeYear": "93.12%",
     "time": 276,
     "timeDay": 0,
     "timeWeek": 236,
     "timeMonth": 198,
     "timeYear": 276,
     "dailyMinutesDown": {
-      "2024-04-23": 47,
+      "2024-04-23": 591,
       "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
@@ -47,7 +47,7 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -58,6 +58,8 @@
     "timeWeek": 298,
     "timeMonth": 326,
     "timeYear": 286,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-23": 0
+    }
   }
 ]
